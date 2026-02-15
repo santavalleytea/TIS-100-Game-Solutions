@@ -4,6 +4,8 @@ This repository contains my solutions to puzzles from **TIS-100**, a programming
 
 TIS-100 simulates a fictional assembly-like machine composed of interconnected processing nodes. Each puzzle requires writing programs under strict constraints (instruction count, node usage, cycle limits).
 
+Note that the node numbers indicate the boxes and is read from left to right (i.e. 0 to 4 on the first row, 5 to 8 on the second etc.).
+
 ---
 
 ## 🎯 Objectives
